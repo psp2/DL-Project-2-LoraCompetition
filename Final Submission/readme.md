@@ -1,1 +1,1 @@
-This is the file that ended up getting the best score
+"final_notebook_with_plots" has plots added for the reviewer’s benefit. Those are the only differences between the code in that file and the submission we selected for the competition; all relevant configurations & parameters for the model, along with our new WeightedLoss function, are the exact same.
